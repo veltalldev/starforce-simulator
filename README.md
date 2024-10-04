@@ -56,10 +56,10 @@ To run this project, you will need:
 
 To run the core simulation logic:
 
-1. Open **lib/services/upgrade_simulator.dart** and adjust the input parameters (e.g., `equipmentLevel`, `trialSize`, `initialStar`, `targetStar`).
+1. Open **lib/simulation/run_simulation.dart** and adjust the input parameters (e.g., `equipmentLevel`, `trialSize`, `initialStar`, `targetStar`).
 
 2. Run the Dart file:
-   dart run lib/main.dart
+   dart lib/simulation/run_simulation.dart
 
 ### Running Unit Tests
 

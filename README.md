@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **Dart/Flutter** application that simulates the upgrading process of equipment in an MMORPG called MapleStory. The simulator models various features such as upgrade success rates, failure consequences, destruction events, safeguard options, and event-driven modifications (like Star Catching, pity system, and cost discounts).
+This project is a WIP **Dart/Flutter** application that simulates the upgrading process of equipment in an MMORPG called MapleStory. The simulator models various features such as upgrade success rates, failure consequences, destruction events, safeguard options, and event-driven modifications (like Star Catching, pity system, and cost discounts).
 
 You can input equipment properties like the level, initial stars, target stars, and the number of trials, and the simulator will run those trials, providing detailed statistics including success rates, destruction rates, and resource costs, etc.
 

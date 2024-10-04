@@ -1,4 +1,4 @@
-# Equipment Upgrade Simulator
+# MapleStory StarForce Simulator
 
 ## Overview
 

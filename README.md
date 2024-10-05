@@ -21,6 +21,7 @@ Users can input equipment properties like the level, initial stars, target stars
 
 ## 📂 Directory Structure
 
+```
 /starforce_sim/
 │
 ├── /lib/
@@ -37,6 +38,7 @@ Users can input equipment properties like the level, initial stars, target stars
 ├── /data/                           # Data storage (optional)
 ├── pubspec.yaml                     # Project dependencies
 └── README.md                        # Project documentation (this file)
+```
 
 ---
 

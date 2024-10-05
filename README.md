@@ -1,31 +1,23 @@
-<<<<<<< HEAD
 # 🌟 Starforce Sim: Equipment Upgrade Simulator 🌟
 
 ## Overview
 
 This project is a Dart application that simulates the upgrading process of equipment in the MMORPG MapleStory. The simulator models various features such as upgrade success rates, failure consequences, destruction events, safeguard options, and event-driven modifications (such as the Pity System, 5/10/15 guaranteed success events, and cost discounts).
-=======
-# MapleStory StarForce Simulator
-
-## Overview
-
-This project is a WIP **Dart/Flutter** application that simulates the upgrading process of equipment in an MMORPG called MapleStory. The simulator models various features such as upgrade success rates, failure consequences, destruction events, safeguard options, and event-driven modifications (like Star Catching, pity system, and cost discounts).
->>>>>>> 691e7cf01701729e4a9d109832726727289c58fb
 
 Users can input equipment properties like the level, initial stars, target stars, and the number of trials. The simulator will run those trials and provide detailed statistics, including success rates, destruction rates, and resource costs.
 
 ## Features
 
-- 🎯 **Simulates equipment upgrades** with outcomes like success, failure (maintain, decrease), and destruction.
-- ⚙️ **Incorporates special event features** such as:
+- **Simulates equipment upgrades** with outcomes like success, failure (maintain, decrease), and destruction.
+- **Incorporates special events and features** such as:
   - 🛡️ **Pity System**: Guarantees success after consecutive failures.
   - 🎉 **5/10/15 Events**: Guaranteed success for specific star levels.
   - 💸 **30% Discount Event**: Reduces the cost of upgrade attempts.
-- 🔒 **Safeguard Mechanic**: Prevents destruction during high-risk upgrades at star levels 15 and 16.
-- 📊 **Tracks and reports**:
+  - 🔒 **Safeguard Mechanic**: Prevents destruction during high-risk upgrades at star levels 15 and 16.
+- **Tracks and reports**:
   - Success, failure, and destruction statistics.
   - Total meso spent and average cost per successful upgrade.
-- 🎛️ **Dynamic Configuration**: Allows users to customize input parameters like equipment level, initial stars, target stars, and meso budget.
+- **Dynamic Configuration**: Allows users to customize input parameters like equipment level, initial stars, target stars, and meso budget.
 
 ## 📂 Directory Structure
 

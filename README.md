@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # 🌟 Starforce Sim: Equipment Upgrade Simulator 🌟
 
 ## Overview
 
 This project is a Dart application that simulates the upgrading process of equipment in the MMORPG MapleStory. The simulator models various features such as upgrade success rates, failure consequences, destruction events, safeguard options, and event-driven modifications (such as the Pity System, 5/10/15 guaranteed success events, and cost discounts).
+=======
+# MapleStory StarForce Simulator
+
+## Overview
+
+This project is a WIP **Dart/Flutter** application that simulates the upgrading process of equipment in an MMORPG called MapleStory. The simulator models various features such as upgrade success rates, failure consequences, destruction events, safeguard options, and event-driven modifications (like Star Catching, pity system, and cost discounts).
+>>>>>>> 691e7cf01701729e4a9d109832726727289c58fb
 
 Users can input equipment properties like the level, initial stars, target stars, and the number of trials. The simulator will run those trials and provide detailed statistics, including success rates, destruction rates, and resource costs.
 
